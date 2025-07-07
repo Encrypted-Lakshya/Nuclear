@@ -1,0 +1,35 @@
+<p align="center">
+  <img src="./Logo.png" alt="Portfolio Logo" width="300"/>
+</p>
+
+# 🚀 Cynical Lakshya – Developer Portfolio
+
+Welcome to my personal developer portfolio website, showcasing my skills, projects, and professional profile!
+
+🌐 **Live Site:** [cynical-lakshya.netlify.app](https://cynical-lakshya.netlify.app/)
+
+---
+
+## ✨ Features
+
+- Modern, dark-themed UI with vibrant gradient colors
+- Animated elements and smooth transitions
+- Fully responsive design for all devices
+- Organized sections:
+  - **Home:** Personal introduction, headline, and quick action buttons
+  - **Projects:** Highlights of my work
+  - **Store:** (if applicable) digital products or services
+  - **Contact:** Ways to connect with me
+- Floating social icons placed around the profile photo in an arc
+- Clean, stylish typography
+
+---
+
+## 🖼️ Technologies Used
+
+- HTML5
+- CSS3 (animations, gradients, transitions)
+- JavaScript
+- Netlify for hosting
+
+---
